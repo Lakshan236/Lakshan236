@@ -36,5 +36,5 @@ Feel free to explore my repositories and contribute to open-source projects. Let
 
 ---
 
-⭐️ From [Lakshan Aththanayaka](https://github.com/yourusername)
+⭐️ From [Lakshan Aththanayaka](https://github.com/Lakshan236)
 

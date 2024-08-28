@@ -28,7 +28,7 @@ I'm a passionate software developer and marketing manager with experience in sof
 
 ## 💬 Let's Connect!
 
-- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/lakshan-aththanayaka-6a0a242b9/)
 - Twitter: [@yourtwitterhandle](https://twitter.com/yourtwitterhandle)
 - Personal Website: [yourwebsite.com](https://yourwebsite.com)
 

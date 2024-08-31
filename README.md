@@ -19,7 +19,7 @@ I'm a passionate software developer and marketing manager with experience in sof
 
 ## 📈 GitHub Stats
 
-![Lakshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Lakshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lakshan236&show_icons=true&theme=radical)
 
 ## 🚀 Featured Projects
 

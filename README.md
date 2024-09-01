@@ -4,11 +4,11 @@
 
 I'm a passionate software developer and marketing manager with experience in software development, Python programming, and strategic marketing. I enjoy building innovative solutions and exploring new technologies.
 
-- 🔭 I’m currently a Software Engineering student at The Open University of Sri Lanka (OUSL).
+- 👩‍💻 I’m currently a Software Engineering student at The Open University of Sri Lanka (OUSL).
 - 🌱 I’m learning Python and database normalization concepts.
 - 👯 I’m looking to collaborate on **open-source Python projects**.
 - 📫 How to reach me: [lakshanaththanayaka236@gmail.com](mailto:lakshanaththanayaka236@gmail.com)
-- ⚡ Fun fact: I love combining tech and marketing strategies to drive growth!
+- ⚡ Fun fact: I enjoy blending tech skills with creative strategies to solve real-world problems!
 
 ## 🛠️ Technologies & Tools
 
